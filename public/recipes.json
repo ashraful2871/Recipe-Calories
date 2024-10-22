@@ -1,0 +1,96 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "Grilled Chicken with Basil",
+    "short_description": "A flavorful grilled chicken dish with a hint of fresh basil.",
+    "image": "https://i.ibb.co.com/cw4K9Cy/Rectangle-20170-1.png",
+    "ingredients": [
+      "550 g chicken breast",
+      "120 ml soy sauce",
+      "200 g basil leaves",
+      "2 cloves garlic",
+      "1 tbsp olive oil"
+    ],
+    "preparing_time": 30,
+    "calories": 320
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Mushroom Risotto",
+    "short_description": "Creamy mushroom risotto cooked with parmesan and white wine.",
+    "image": "https://i.ibb.co.com/Ptv70RN/Rectangle-20170.png",
+    "ingredients": [
+      "400 g arborio rice",
+      "400 g mushrooms",
+      "1 liter chicken broth",
+      "100 g parmesan cheese",
+      "1 onion",
+      "200 ml white wine"
+    ],
+    "preparing_time": 45,
+    "calories": 450
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Spaghetti Bolognese",
+    "short_description": "Classic Italian pasta dish with rich, meaty tomato sauce.",
+    "image": "https://i.ibb.co.com/Ptv70RN/Rectangle-20170.png",
+    "ingredients": [
+      "400 g ground beef",
+      "200 g spaghetti",
+      "400 g canned tomatoes",
+      "2 cloves garlic",
+      "1 onion",
+      "100 ml red wine"
+    ],
+    "preparing_time": 40,
+    "calories": 520
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Vegetable Stir-Fry",
+    "short_description": "A quick and healthy stir-fry with colorful vegetables.",
+    "image": "https://i.ibb.co.com/cw4K9Cy/Rectangle-20170-1.png",
+    "ingredients": [
+      "200 g broccoli",
+      "150 g bell peppers",
+      "100 g carrots",
+      "100 g snow peas",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil"
+    ],
+    "preparing_time": 20,
+    "calories": 180
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Avocado Toast",
+    "short_description": "Simple and delicious avocado toast with lemon and chili flakes.",
+    "image": "https://i.ibb.co.com/Ptv70RN/Rectangle-20170.png",
+    "ingredients": [
+      "2 slices of whole-grain bread",
+      "1 ripe avocado",
+      "1 tsp lemon juice",
+      "1/4 tsp chili flakes",
+      "Salt to taste"
+    ],
+    "preparing_time": 10,
+    "calories": 250
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "Beef Tacos",
+    "short_description": "Tasty beef tacos with fresh toppings and a touch of lime.",
+    "image": "https://i.ibb.co.com/cw4K9Cy/Rectangle-20170-1.png",
+    "ingredients": [
+      "500 g ground beef",
+      "6 taco shells",
+      "100 g lettuce",
+      "50 g cheddar cheese",
+      "1 tomato",
+      "1 lime"
+    ],
+    "preparing_time": 25,
+    "calories": 410
+  }
+]
